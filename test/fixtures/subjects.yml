@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+sub1:
+  name: Java
+  description: Java description
+
+sub2:
+  name: PHP
+  description: PHP description

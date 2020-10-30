@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  subject: sub1
+  student: stud1
+  teacher: t1
+
+two:
+  subject: sub2
+  student: stud1
+  teacher: t2

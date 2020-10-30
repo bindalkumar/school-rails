@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+stud1:
+  name: Student1
+  roll_no: 1
+  house: Raman
+
+stud2:
+  name: Student2
+  roll_no: 2
+  house: Patel
